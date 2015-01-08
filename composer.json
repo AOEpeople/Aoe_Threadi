@@ -3,4 +3,11 @@
     "description": "Magento module wrapping Threadi library",
     "license": "GPL-3.0",
     "type": "magento-module",
+    "scripts": {
+        "post-install-cmd": [
+            "git submodule init",
+            "git submodule sync",
+            "git submodule update"
+        ]
+    }
 }
