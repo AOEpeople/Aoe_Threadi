@@ -1,0 +1,6 @@
+{
+    "name": "aoepeople/aoethreadi",
+    "description": "Magento module wrapping Threadi library",
+    "license": "GPL-3.0",
+    "type": "magento-module",
+}
