@@ -9,5 +9,14 @@
             "git submodule sync",
             "git submodule update"
         ]
-    }
+    },
+    "require": {
+        "aoepeople/threadi": "dev-composer-compliant"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/AOEpeople/Threadi.git"
+        }
+    ]
 }
