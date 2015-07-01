@@ -11,7 +11,7 @@
         ]
     },
     "require": {
-        "aoepeople/threadi": "composer-compliant"
+        "aoepeople/threadi": "dev-composer-compliant"
     },
     "repositories": [
         {
