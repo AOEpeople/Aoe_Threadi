@@ -1,4 +1,4 @@
 lib/AoeCredis/      lib/AoeCredis/
 app/etc/modules/*	app/etc/modules/
-../Threadi          lib/Threadi
+../threadi          lib/Threadi
 
